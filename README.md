@@ -8,6 +8,7 @@ If not installed, install Homebrew, a package manager for Mac and Linux users by
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
-Then, install git lfs (lfs is an acronym for large file storage)
+Then, install git lfs (lfs is an acronym for large file storage) 
 
+```brew install git-lfs```
 
