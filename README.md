@@ -14,7 +14,7 @@ Then, install git lfs (lfs is an acronym for large file storage)
 
 Set up git lfs for your user account by 
 
-```git lfs install````
+```git lfs install```
 
 Needs to be done only once per account. 
 
