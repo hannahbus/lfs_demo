@@ -18,3 +18,16 @@ Set up git lfs for your user account by
 
 Needs to be done only once per account. 
 
+Then specify, which file types should tracked via git lfs, here e.g. 
+
+```git lfs track "*.csv"```
+
+Update git attributes by typing in 
+
+```git add .gitattributes```
+
+Usual procedure 
+
+```git add * 
+git commit -m "foo" 
+git push```
